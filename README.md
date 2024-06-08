@@ -10,5 +10,5 @@
 
 Click on the cat to visit my website
 <a href="https://shanewheatindustries.neocities.org/">
-<img style="margin-top:25px;width: 176px; height: 62px; object-fit: scale-down;"  src="/neocities.png"></a>
+<img style="margin-top:25px;width: 176px; height: 62px; object-fit: scale-down;"  src="https://raw.githubusercontent.com/LargeGaming/LargeGaming/main/catsmile.gif"></a>
 
