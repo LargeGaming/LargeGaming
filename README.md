@@ -1,11 +1,16 @@
 ```math
 \ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -1000; position: fixed; top: 0; left: 0; height: 100vh; object-fit: contain; background-size: contain; width: 100vw; opacity: 0.1; background: url('https://raw.githubusercontent.com/LargeGaming/LargeGaming/main/nod.gif?raw=true');]{x0000}$}
 ```
+
+<body>
 <div style="width:40%;" id="welcomebox" class="gamingbox">
     
-      <marquee
-        direction="left"
-        width="80%">
+      <marquee direction="left" width="80%">
         <h1 style="text-shadow: 3px 3px 5px black; color:red;"><img style="width: 64px; height: 64px; object-fit: scale-down"  src="blink/coolfire.gif">Welcome to Heck!!1<img style="width: 64px; height: 64px; object-fit: scale-down"  src="blink/coolfire.gif"></h1>
         </marquee>
+        <br>
+        <p style= "color:white; text-shadow: 3px 3px 5px black">(under construction) This website is to showcase what i'm working on<br>
+        and past projects and to practice website design<br>
+        and such, take a look around, if you dare.</p>
 </div>
+</body>
