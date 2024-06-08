@@ -5,3 +5,4 @@
   <h1 style="text-shadow: 3px 3px 5px black; color:red;"> <img style="width: 45px; height: 45px; object-fit: scale-down "src="https://raw.githubusercontent.com/LargeGaming/LargeGaming/main/coolfire.gif">Welcome to HECK!!1!<img style="width: 45px; height: 45px; object-fit: scale-down "src="https://raw.githubusercontent.com/LargeGaming/LargeGaming/main/coolfire.gif">
   </h1>
 </p>
+<h2 style="color:DodgerBlue; text-shadow: 3px 3px 3px black;"><img style="width: 32px; height: 32px; object-fit: scale-down"  src="blink/coolfire.gif">Entering the gaming zone<img style="width: 32px; height: 32px; object-fit: scale-down"  src="blink/coolfire.gif"></h2>
